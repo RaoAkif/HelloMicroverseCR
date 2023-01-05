@@ -1,0 +1,9 @@
+* {
+  background-color: aliceblue;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+  color: #0fecc0;
+}
